@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.pokThumbnail{
+    border: solid 2px green;
+    margin: auto;
+    margin-bottom: 16px;
+  }
+
+
+.myCardName{
+  background: green;
+  color: white;
+}
+
+.pokInfo{
+  margin: auto;
+}
+
+h1{
+  text-transform: uppercase;
+}
+
